@@ -1,16 +1,17 @@
-### Mixed-Signal-Processing
+
 College Thesis: Mixed Signal Processing: Hardware Electrodynamics, Integration Scaling, and Concept Simulation
 
-Mixed Signal Processing: Hardware Electrodynamics,
-Integration Scaling, and Concept Simulation
+# Mixed Signal Processing: Hardware Electrodynamics, Integration Scaling, and Concept Simulation
 
-Scott Bannert, MSME
-The University of Texas at Austin, 2007
+### Scott Bannert, MSME
+### The University of Texas at Austin, 2007
+### Supervisors: Benito Fernandez & Michael Bryant
 
-Supervisors: Benito Fernandez & Michael Bryant
 
-## ABSTRACT
+# ABSTRACT
 Basic hardware components for Mixed Signal Processing–analog computing inside a digital framework–are developed. The Hybrid Integrator integrates analog signals similar to analog computers avoiding op-amp saturation. These analog signals are scaled and combined with digital signals inside a Hybrid Format, forming a Hybrid Signal. The Hybrid Integrator Cell combines multiple Hybrid Signals through the use of multiple R-2R ladders and other supporting components for computing. Multiple Hybrid Integrator Cells combined in parrallel form a Hybrid Integrator Cell Array, syncronizing the integration of multiple mixed signals. An integration scaling process is developed, constraining Hybrid Signals during integration computing; this is discussed for both linear and nonlinear systems of first order ordinary differential equations (ODE’s). Lastly, program code is developed to simulate Mixed Signal Processing, demonstrating the expected results of Mixed Signal Processing for solving various simple ODE’s.
+
+
 
 # TABLE OF CONTENTS ###
 
